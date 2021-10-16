@@ -11,5 +11,3 @@ I'm also working on [Healthcheck.rs](https://github.com/healthcheck-rs), a Rust 
 - [LinkedIn 💼](https://linkedin.com/in/russweas)
 - [Resume 📄](https://github.com/russweas/russweas/files/6926093/Resume_new.docx)
 - [Email 📬](mailto:russweas@gmail.com)
-
-[![Russell's github stats](https://github-readme-stats.vercel.app/api?username=russweas&theme=blue-green)](https://github.com/russweas)
