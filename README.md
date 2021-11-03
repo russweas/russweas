@@ -6,6 +6,8 @@ My current main project is [Hermod](https://github.com/hermodapp/api), my senior
 
 I'm also working on [Healthcheck.rs](https://github.com/healthcheck-rs), a Rust microsite that can be used to monitor other website's uptime.
 
+I've contributed to [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web/pull/46), and enriched the documentation for [sqlx](https://github.com/launchbadge/sqlx/pull/1497).
+
 ### Contact 🤝
 
 - [LinkedIn 💼](https://linkedin.com/in/russweas)
