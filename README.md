@@ -10,7 +10,7 @@ I've contributed to [tracing-actix-web](https://github.com/LukeMathWalker/tracin
 
 ### Contact 🤝
 
-- [Calendly](https://calendly.com/russweas)
+- [Calendly 🗓️](https://calendly.com/russweas)
 - [LinkedIn 💼](https://linkedin.com/in/russweas)
 - [Resume 📄](https://github.com/russweas/russweas/files/6926093/Resume_new.docx)
 - [Email 📬](mailto:russweas@gmail.com)
