@@ -8,7 +8,7 @@ I learned to code Rust while working on [Hermod](https://github.com/hermodapp/ap
 
 I'm also working on [Healthcheck.rs](https://github.com/healthcheck-rs), a Rust microsite that can be used to monitor other website's uptime.
 
-I've contributed to open-source projects, including [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) and [cargo](https://github.com/rust-lang/cargo), and enriched the documentation for [sqlx](https://github.com/launchbadge/sqlx/pull/1497).
+I've contributed to a number of open-source projects, including [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) and [cargo](https://github.com/rust-lang/cargo), and [sqlx's documentation](https://github.com/launchbadge/sqlx).
 
 ### Contact 🤝
 
